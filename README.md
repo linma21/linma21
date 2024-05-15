@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163172,10:D6E4F0,30:1E56A0,75:B9B4C7,100:F6F6F6&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163172,10:163172,30:1E56A0,75:B9B4C7,100:F6F6F6&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
 ## 📚tech stack
