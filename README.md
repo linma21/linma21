@@ -1,5 +1,6 @@
 
-![Linma`s github (2)](https://github.com/linma21/linma21/assets/154877422/ffe3e131-0377-463c-8ca6-1fe2679e999d)
+![Linma`s github (6)](https://github.com/linma21/linma21/assets/154877422/19e95d00-3198-40cb-b5e1-f8a08ce418c2)
+
 
 
 ## 📚tech stack
