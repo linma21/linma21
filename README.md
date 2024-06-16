@@ -1,7 +1,4 @@
-
-![Linma`s github (7)](https://github.com/linma21/linma21/assets/154877422/c0262834-0b64-42c7-a9a6-46177c0c401c)
-
-
+![Linmasgithub8-ezgif com-crop](https://github.com/linma21/linma21/assets/154877422/e7769f27-6387-48c0-89d3-c3cf02ef1f0a)
 
 
 ## 📚tech stack
