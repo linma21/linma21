@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:163172,10:163172,30:1E56A0,75:B9B4C7,100:9AD0C2&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+![Linma`s github (2)](https://github.com/linma21/linma21/assets/154877422/ffe3e131-0377-463c-8ca6-1fe2679e999d)
 
 
 ## 📚tech stack
